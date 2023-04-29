@@ -11,7 +11,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheRealSeber&theme=default&hide_border=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=TheRealSeber&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
